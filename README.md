@@ -8,8 +8,7 @@ I mostly build personal projects — I like turning ideas and things I'm curious
 
 - [price-finder](https://github.com/theodore223/price-finder) — price comparison tool
 - [digital-library](https://github.com/theodore223/digital-library) — personal digital library and commonplace book with local semantic search
-- [Photo-Analysis](https://github.com/theodore223/Photo-Analysis) — scores exposure, composition, sharpness and color to help improve photography
-- [foto-gelisim-gunlugu](https://github.com/theodore223/foto-gelisim-gunlugu) — photography journal that reads EXIF data and charts progress over time
+
 
 
 <!--
