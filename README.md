@@ -1,4 +1,4 @@
-####### 🕹️ About me:
+###### 🕹️ About me:
 
 I mostly build personal projects, I like turning ideas and things im curious about into working stuff. stuff that people can actually use, not just tech demos🪄
 
