@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Your Name
+# About me
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,35:6D28D9,70:7C3AED,100:2563EB&text=Software%20Engineer%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 </p>
-
+Ab
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
