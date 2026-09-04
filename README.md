@@ -1,6 +1,6 @@
 # 🕹️ About me:
 
-I mostly build personal projects, I like turning ideas and things im curious about into working stuff. stuff that people can actually use, not just tech demos🪄
+I mostly build personal projects, I like turning ideas and things im curious about into working stuff. stuff that people can actually use
 
 **Tech I work with:** Next.js · TypeScript · Tailwind CSS · Framer Motion · Vercel — plus n8n automations and AI-powered tooling.
 
